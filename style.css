@@ -1,0 +1,6 @@
+#map {
+    height: 100vh;
+    width: 100%;
+    display: none;
+    /* Initially hide the map */
+}
